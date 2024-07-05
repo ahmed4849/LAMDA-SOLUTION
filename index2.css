@@ -1,0 +1,28 @@
+*{
+    background-color: black;
+    size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+p{
+    background-color: brown;
+}
+#first_paragraph{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#second_paragraph{
+    color: blue;
+}
+#third_paragraph{
+    color: chartreuse;
+}
+#fourth_paragraph{ color: chocolate;
+}
+ 
+button{
+    color: darkblue;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-top-left-radius: 20px;
+}
